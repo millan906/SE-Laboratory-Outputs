@@ -324,4 +324,4 @@ git push -u origin lab-01-STUDENT-NUMBER
 
 ## Getting Help
 
-Contact your instructor through the official course communication channel. Do not post personal information, student numbers, or grades in GitHub issues or pull-request comments.
+Contact me through my email which i will give in the class. Do not post personal information, student numbers, or grades in GitHub issues or pull-request comments.
