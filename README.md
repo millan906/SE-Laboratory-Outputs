@@ -5,6 +5,30 @@ Instructor-controlled central repository for student laboratory submissions.
 
 ---
 
+## Start Here — Laboratory Manual and Submission
+
+> **Students: begin here before doing anything else.**
+
+| Resource | Link |
+|---|---|
+| Laboratory Manual (DOCX) | [SE5\_Software\_Quality\_and\_Security\_Laboratory\_Manual\_v1.2.docx](laboratories/SE5_Software_Quality_and_Security_Laboratory_Manual_v1.2.docx) |
+| Step-by-step Submission Guide | [SUBMISSION\_GUIDE.md](SUBMISSION_GUIDE.md) |
+| Contribution and Naming Rules | [CONTRIBUTING.md](CONTRIBUTING.md) |
+| Security and Privacy Policy | [SECURITY.md](SECURITY.md) |
+
+**What to do:**
+
+1. Download and read the laboratory manual.
+2. Read [SUBMISSION\_GUIDE.md](SUBMISSION_GUIDE.md) fully before running any command.
+3. Fork this repository to your personal GitHub account.
+4. Create the required branch (`lab-XX-STUDENT-NUMBER`) in your fork.
+5. Create your submission folder at `laboratories/lab-XX/SECTION/STUDENT-NUMBER-surname-given-name/`.
+6. Complete the laboratory work inside your folder.
+7. Open a pull request to this repository targeting `main`.
+8. Copy the pull-request URL and submit it through the designated LMS activity.
+
+---
+
 ## Purpose
 
 This repository is the official submission hub for the **Software Quality and Security Laboratory** course. Students do **not** push directly to this repository. Instead, each student forks this repository, does their work in their personal fork, and opens a pull request back here for instructor review.

@@ -244,23 +244,38 @@ git push -u origin lab-01-2026-0001
 5. Fill in the pull-request template that appears in the description box.
 6. Click **Create pull request**.
 
-> The timestamp when you click **Create pull request** is your **official submission time**.
+> The timestamp when you click **Create pull request** is your **official submission time**. The LMS upload time and the instructor's merge time are **not** the submission time.
 
 ---
 
-## Step 14 — Respond to Review Comments
+## Step 14 — Submit the Pull-Request URL Through the LMS
+
+After the pull request is open:
+
+1. Copy the complete URL from your browser's address bar.
+   It will look like: `https://github.com/millan906/SE-Laboratory-Outputs/pull/123`
+2. Go to the course LMS (the platform your instructor uses for grades and submissions).
+3. Open the designated submission activity for the laboratory.
+4. Paste the pull-request URL into the submission box and submit.
+
+> **A push to your personal fork without an open pull request is not an official submission.**
+> Submitting the pull-request URL to the LMS confirms your intent to submit and creates a timestamped record outside GitHub.
+
+---
+
+## Step 15 — Respond to Review Comments
 
 If the instructor requests changes:
 
 1. Read each comment carefully.
 2. Make the required corrections in your local repository.
-3. Push the corrections to the **same branch** (Step 15).
+3. Push the corrections to the **same branch** (Step 16 below).
 
 Do **not** open a new pull request.
 
 ---
 
-## Step 15 — Push Corrections to the Same Branch and Pull Request
+## Step 16 — Push Corrections to the Same Branch and Pull Request
 
 After making corrections locally:
 
@@ -274,7 +289,7 @@ The existing pull request will update automatically. You do **not** need to open
 
 ---
 
-## Step 16 — Avoid Duplicate Pull Requests
+## Step 17 — Avoid Duplicate Pull Requests
 
 - Open **exactly one** pull request per laboratory.
 - If you accidentally open a duplicate, close the extra one and leave a comment explaining which PR is the correct submission.
@@ -282,7 +297,7 @@ The existing pull request will update automatically. You do **not** need to open
 
 ---
 
-## Step 17 — Confirm Your Final Submission Status
+## Step 18 — Confirm Your Final Submission Status
 
 Check your pull request page on GitHub to confirm:
 - Status is **Open** (submitted, awaiting review).
